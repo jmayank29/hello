@@ -1,4 +1,5 @@
 # hello
 
 
-i wanted to just look around in github to explore somthing new 
+i wanted to just look around in github new
+it interesting
